@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RC2014)(type Legacy)(uri ${KIPRJMOD}/RC2014.lib)(options "")(descr ""))
+  (lib (name rtl8019as)(type Legacy)(uri ${KIPRJMOD}/rtl8019as.lib)(options "")(descr ""))
+  (lib (name Ethernet_Transformer)(type Legacy)(uri ${KIPRJMOD}/Ethernet_Transformer.lib)(options "")(descr ""))
+)
