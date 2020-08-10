@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Connector_Ethernet)(type KiCad)(uri ${KIPRJMOD}/Connector_Ethernet.pretty)(options "")(descr ""))
+)
