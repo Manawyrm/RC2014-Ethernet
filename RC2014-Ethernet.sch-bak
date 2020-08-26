@@ -1162,4 +1162,26 @@ $EndComp
 Connection ~ 11000 6200
 Wire Wire Line
 	11000 6200 10800 6200
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F81BBE4
+P 15300 9500
+F 0 "H2" H 15400 9546 50  0000 L CNN
+F 1 "MountingHole" H 15400 9455 50  0000 L CNN
+F 2 "ToolingHole:ToolingHole_JLCSMT" H 15300 9500 50  0001 C CNN
+F 3 "~" H 15300 9500 50  0001 C CNN
+	1    15300 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F8298D3
+P 15300 9300
+F 0 "H1" H 15400 9346 50  0000 L CNN
+F 1 "MountingHole" H 15400 9255 50  0000 L CNN
+F 2 "ToolingHole:ToolingHole_JLCSMT" H 15300 9300 50  0001 C CNN
+F 3 "~" H 15300 9300 50  0001 C CNN
+	1    15300 9300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

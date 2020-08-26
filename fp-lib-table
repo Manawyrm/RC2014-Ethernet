@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Connector_Ethernet)(type KiCad)(uri ${KIPRJMOD}/Connector_Ethernet.pretty)(options "")(descr ""))
+  (lib (name ToolingHole)(type KiCad)(uri ${KIPRJMOD}/ToolingHole.pretty)(options "")(descr ""))
 )
