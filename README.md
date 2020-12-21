@@ -1,7 +1,9 @@
 RC2014 RTL8019 Ethernet card
 ---------------------
 
-![RTL8019 network card](https://screenshot.tbspace.de/okqcvfgylrj.jpg)
+![RTL8019 network card](https://screenshot.tbspace.de/okqcvfgylrj.jpg)  
+
+The design is optimized for automated assembly at [JLCPCB](https://jlcpcb.com).  
 
 [Schematic](gerbers/RevA/RevA.pdf)  
 [Firmware](https://github.com/Manawyrm/RC2014-Ethernet-Firmware)  
